@@ -4,13 +4,19 @@
     background-color: lightblue;
 }
 
-#xuan
-{
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-    width:100px;
-    height:400px;
+#xuan {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100px;
+    height: 400px;
 }
+
+.xxx
+{
+    width:100px;
+    height:100px;
+}
+
 
 
