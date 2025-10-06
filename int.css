@@ -1,17 +1,16 @@
-#zym
-{
-    width:500px;
-    height:300px;
-    background-color: lightblue；
-    
+#zym {
+    width: 500px;
+    height: 300px;
+    background-color: lightblue;
 }
 
 #xuan
 {
     display:flex;
-    flex-direction:column;
-    align-items:start;
+    justify-content:flex-start;
+    align-items:center;
     width:100px;
     height:400px;
 }
+
 
