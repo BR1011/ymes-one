@@ -1,21 +1,26 @@
-#zym {
+#zym
+{
     width: 500px;
     height: 300px;
     background-color: red;
 }
 
-#xuan {
+#xuan 
+{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 400px;
+    width: 100px;
     height: 400px;
+    flex-wrap: wrap;
+}
+.xxx 
+{
+    width: 100px;
+    height: 100px;
+    margin: 40px;
 }
 
-.xxx
-{
-    margin:50px;
-}
 
 
 
