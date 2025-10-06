@@ -1,0 +1,15 @@
+#zym
+{
+    width:500px;
+    height:300px;
+    
+}
+
+#xuan
+{
+    display:flex;
+    flex-direction:column;
+    align-items:start;
+    width:100px;
+    height:400px;
+}
